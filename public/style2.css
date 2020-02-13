@@ -148,3 +148,32 @@ header {
 .details .item:last-child div:nth-child(2){
     color: grey;
 }
+
+/*=== CREATE ===*/
+
+input {
+    width: 100%;
+    outline: none;
+    color: #555;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+input[type="radio"] {
+    width: initial;
+    margin-right: 4px;
+}
+
+input::placeholder {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+button[type="submit"] {
+    margin-top: 32px;
+    font-size: 16px;
+    width: 100%;
+    padding: 8px 32px;
+    border-radius: 4px;
+    background-color: var(--verde-claro);
+}

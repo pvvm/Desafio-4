@@ -5,6 +5,7 @@ const routes = require("./routes")
 const server = express()
 //const pages = require("./data")
 
+server.use(express.urlencoded({extended: true}))
 server.use('/static', express.static(__dirname + "/public"))
 server.use(routes)
 //server.use(express.static('public'))

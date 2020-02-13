@@ -1,0 +1,34 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "avatar_url": "http://google.com",
+      "name": "Pedro Mizuno",
+      "birth": 930441600000,
+      "scholarity": "EM",
+      "type": "P",
+      "area": "lsdlçskdlçsd, md lsdnlsdkf, dkfnsdlfn",
+      "created_at": 1581614247721
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://google.com",
+      "name": "sdosadsd",
+      "birth": -61884864000000,
+      "scholarity": "ES",
+      "type": "D",
+      "area": ",cm,xcm,x",
+      "created_at": 1581614271973
+    },
+    {
+      "id": 3,
+      "avatar_url": "http://google.com",
+      "name": "Oeskfdf",
+      "birth": 913420800000,
+      "scholarity": "M",
+      "type": "D",
+      "area": "sdsd",
+      "created_at": 1581614370032
+    }
+  ]
+}
