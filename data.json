@@ -11,42 +11,14 @@
       "created_at": 1581614247721
     },
     {
-      "id": 2,
-      "avatar_url": "http://google.com",
-      "name": "sdosadsd",
-      "birth": -61884864000000,
-      "scholarity": "superior",
-      "type": "D",
-      "areas": ",cm,xcm,x",
-      "created_at": 1581614271973
-    },
-    {
-      "id": 3,
-      "avatar_url": "http://google.com",
-      "name": "Oeskfdf",
-      "birth": 913420800000,
-      "scholarity": "doutorado",
-      "type": "D",
-      "areas": "sdsd",
-      "created_at": 1581614370032
-    },
-    {
-      "id": 4,
-      "avatar_url": "http://google.com",
-      "name": "asdasda",
-      "birth": -23890291200000,
+      "id": "4",
+      "avatar_url": "https://abrilvejasp.files.wordpress.com/2016/12/hey-arnold.jpg?quality=70&strip=all&strip=info",
+      "name": "Arnold Cabeça de Bigorna",
+      "birth": 724118400000,
       "scholarity": "mestrado",
       "type": "P",
-      "created_at": 1581645032666
-    },
-    {
-      "id": 5,
-      "avatar_url": "https://i.ytimg.com/vi/AQx_KMoCgJU/maxresdefault.jpg",
-      "name": "Pedro Mizuno",
-      "birth": 930441600000,
-      "scholarity": "superior",
-      "type": "P",
-      "created_at": 1581645049943
+      "areas": "cabeça, de, bigorna",
+      "created_at": 1581686767596
     }
   ]
 }
