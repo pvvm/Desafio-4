@@ -5,17 +5,17 @@
       "avatar_url": "https://i.ytimg.com/vi/AQx_KMoCgJU/maxresdefault.jpg",
       "name": "Pedro Mizuno",
       "birth": 930441600000,
-      "scholarity": "medio",
+      "scholarity": "superior",
       "type": "P",
       "areas": "lsdlçskdlçsd, md lsdnlsdkf, dkfnsdlfn",
       "created_at": 1581614247721
     },
     {
-      "id": "4",
+      "id": 4,
       "avatar_url": "https://abrilvejasp.files.wordpress.com/2016/12/hey-arnold.jpg?quality=70&strip=all&strip=info",
       "name": "Arnold Cabeça de Bigorna",
       "birth": 724118400000,
-      "scholarity": "mestrado",
+      "scholarity": "doutorado",
       "type": "P",
       "areas": "cabeça, de, bigorna",
       "created_at": 1581686767596
