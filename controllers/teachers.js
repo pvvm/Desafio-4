@@ -42,7 +42,7 @@ exports.post = function(req, res) {
     birth = Date.parse(birth)
     const created_at = Date.now()
 
-    const lastTeacher = data.teachers[data.teachers.length - 1]
+    const lastTeacher = data.teachers[data.teachers.length - 1].id
 
     if(lastTeacher)
         id = lastTeacher + 1
