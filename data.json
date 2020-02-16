@@ -1,4 +1,15 @@
 {
+  "students": [
+    {
+      "id": 1,
+      "avatar_url": "https://abrilvejasp.files.wordpress.com/2016/12/hey-arnold.jpg?quality=70&strip=all&strip=info",
+      "name": "Arnold Cabeça de Bigorna",
+      "birth": 824774400000,
+      "email": "arnold@gmail.com",
+      "academic_year": "7f",
+      "workload": "3"
+    }
+  ],
   "teachers": [
     {
       "id": 1,
@@ -15,10 +26,20 @@
       "avatar_url": "https://abrilvejasp.files.wordpress.com/2016/12/hey-arnold.jpg?quality=70&strip=all&strip=info",
       "name": "Arnold Cabeça de Bigorna",
       "birth": 724118400000,
-      "scholarity": "doutorado",
+      "scholarity": "mestrado",
       "type": "P",
       "areas": "cabeça, de, bigorna",
       "created_at": 1581686767596
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://i.pinimg.com/originals/a3/ea/4b/a3ea4b7500d0de4431b6f65b0623fd4c.jpg",
+      "name": "Coisa",
+      "birth": 1046649600000,
+      "scholarity": "mestrado",
+      "type": "D",
+      "areas": "sld,sld,lsd",
+      "created_at": 1581886523519
     }
   ]
 }

@@ -30,6 +30,30 @@ module.exports = {
 
         const day = `0${date.getUTCDate()}`.slice(-2)
 
-        return `${year}-${month}-${day}`
+        return {
+            day,
+            month,
+            year,
+            birthDay: `${day}/${month}`,
+            iso: `${year}-${month}-${day}`
+        }
+    },
+    grade: function(academic_year) {
+        if(academic_year == "5f")
+            return "5º Ano do Ensino Fundamental"
+        else if(academic_year == "6f")
+            return "6º Ano do Ensino Fundamental"
+        else if(academic_year == "7f")
+            return "7º Ano do Ensino Fundamental"
+        else if(academic_year == "8f")
+            return "8º Ano do Ensino Fundamental"
+        else if(academic_year == "9f")
+            return "9º Ano do Ensino Fundamental"
+        else if(academic_year == "1m")
+            return "1º Ano do Ensino Médio"
+        else if(academic_year == "2m")
+            return "2º Ano do Ensino Médio"
+        else if(academic_year == "3m")
+            return "3º Ano do Ensino Médio"
     }
 }
